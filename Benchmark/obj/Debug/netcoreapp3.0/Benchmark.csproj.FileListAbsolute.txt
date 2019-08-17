@@ -1,0 +1,11 @@
+D:\Projects\BenchMarking\Benchmark\bin\Debug\netcoreapp3.0\Benchmark.exe
+D:\Projects\BenchMarking\Benchmark\bin\Debug\netcoreapp3.0\Benchmark.deps.json
+D:\Projects\BenchMarking\Benchmark\bin\Debug\netcoreapp3.0\Benchmark.runtimeconfig.json
+D:\Projects\BenchMarking\Benchmark\bin\Debug\netcoreapp3.0\Benchmark.runtimeconfig.dev.json
+D:\Projects\BenchMarking\Benchmark\bin\Debug\netcoreapp3.0\Benchmark.dll
+D:\Projects\BenchMarking\Benchmark\bin\Debug\netcoreapp3.0\Benchmark.pdb
+D:\Projects\BenchMarking\Benchmark\obj\Debug\netcoreapp3.0\Benchmark.csprojAssemblyReference.cache
+D:\Projects\BenchMarking\Benchmark\obj\Debug\netcoreapp3.0\Benchmark.AssemblyInfoInputs.cache
+D:\Projects\BenchMarking\Benchmark\obj\Debug\netcoreapp3.0\Benchmark.AssemblyInfo.cs
+D:\Projects\BenchMarking\Benchmark\obj\Debug\netcoreapp3.0\Benchmark.dll
+D:\Projects\BenchMarking\Benchmark\obj\Debug\netcoreapp3.0\Benchmark.pdb
